@@ -46,8 +46,9 @@ The project was created to practice modern frontend development using React, com
 The project uses React 19 and Vite. :contentReference[oaicite:2]{index=2}
 
 ---
-
 ## 📂 Project Structure
+
+```text
 keep-notes/
 │
 ├── public/
